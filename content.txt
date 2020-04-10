@@ -1,0 +1,6 @@
+I am Chakradhar from Dev team. PRDSPD was created to cascade clinic end date and directory flag to lower lever. 
+
+But if you remember myself you and Sharon chrompton had call to discuss changes to be implmented in PRDSDP 2748. And we came up with few more changes considering which JIRA was moved out of April 2020 release and PRDSDP -3703 was created to backout partial changes merged by PRDSDP 2748.
+
+So that expectation here is to test everything works as earlier i.e, without cascading of end date and directory flag.
+
